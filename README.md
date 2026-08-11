@@ -18,8 +18,12 @@ Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 > sudo pacman -S --needed base-devel git
 > ```
 
-Then install the Night Light by running in the terminal:
+Then install the Throne by running in the terminal:
 
 ```
 git clone https://github.com/Esconine/Throne
+cd Throne
+tar -xvf Throne-v1.2.4.tar.gz
+cd Throne
+makepkg -si
 ```
