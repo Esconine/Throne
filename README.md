@@ -1,6 +1,9 @@
 # Throne (v1.2.4)
 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 
+> [!NOTE]
+> This is a fork of [Throne](https://github.com/throneproj/Throne)
+
 <div align="center"> 
 
 ![Static Badge](https://img.shields.io/badge/Throne-white?style=for-the-badge&logo=tvtime&logoColor=D9E0EE&labelColor=1E202B&color=8ad7eb)
