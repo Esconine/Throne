@@ -21,5 +21,5 @@ Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 Then install the Night Light by running in the terminal:
 
 ```
-git clone
+git clone https://github.com/Esconine/Throne
 ```
